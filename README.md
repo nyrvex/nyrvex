@@ -36,6 +36,7 @@ It builds a real-time model of your infrastructure and allows you to query it di
 nyrvex ask "Who has access to production?"
 nyrvex ask "Show all services communicating with database X"
 nyrvex ask "What are the highest risk nodes?"
+```
 
 ## Security First
 
